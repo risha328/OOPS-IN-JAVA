@@ -1,3 +1,4 @@
+//method overriding example
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");
